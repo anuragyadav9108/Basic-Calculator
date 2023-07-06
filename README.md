@@ -37,6 +37,7 @@ Example
 Here's an example of how the calculator works:
 
 1.User clicks on the number buttons to input the desired numbers.
+
 2.User clicks on an operation button to select the desired operation.
 3.User continues inputting numbers and selecting operations.
 4.User clicks on the equals button to get the result.
